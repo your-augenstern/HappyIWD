@@ -203,7 +203,7 @@ span{
     opacity: 0;
     visibility: hidden;
     animation: envelope 1s linear infinite;
-    animation-delay: 9s;
+    animation-delay: 11s;
     z-index: 100000000;
     transition: all 1s ease-in-out;
 }
@@ -271,7 +271,7 @@ span{
     top: 150px;
     left: -100px;
     animation: cute 3s infinite ease-in-out;
-    animation-delay: 11s;
+    animation-delay: 9s;
 }
 @keyframes cute{
     0%{
@@ -297,7 +297,7 @@ span{
     margin-top: -30px;
     margin-left: -40px;
     animation: cutemail 3s linear infinite;
-    animation-delay: 11s;
+    animation-delay: 9s;
     z-index: -1;
     opacity: 0;
     font-weight: 600;
@@ -322,7 +322,7 @@ span{
     right: -100px;
     transform: scaleX(-1);
     animation: cute2 3s infinite ease-in-out;
-    animation-delay: 11s;
+    animation-delay: 9s;
 }
 @keyframes cute2{
     0%{
@@ -348,7 +348,7 @@ span{
     margin-top: -30px;
     margin-left: -100px;
     animation: cutemail2 3s linear infinite;
-    animation-delay: 11s;
+    animation-delay: 9s;
     z-index: -1;
     opacity: 0;
     font-weight: 600;
